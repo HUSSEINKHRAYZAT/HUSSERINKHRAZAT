@@ -201,22 +201,16 @@ const hussein = {
 
 <div align="center">
 
-<a href="https://github.com/HUSSEINKHRAYZAT">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HUSSEINKHRAYZAT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUSSEINKHRAYZAT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HUSSEINKHRAYZAT&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HUSSEINKHRAYZAT&layout=compact&theme=radical&langs_count=8)
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/HUSSEINKHRAYZAT">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HUSSEINKHRAYZAT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HUSSEINKHRAYZAT&theme=radical)
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/HUSSEINKHRAYZAT">
-  <img src="https://github-profile-trophy.vercel.app/?username=HUSSEINKHRAYZAT&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</a>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HUSSEINKHRAYZAT&theme=radical&no-frame=true&row=1&column=6)
 
 </div>
 
