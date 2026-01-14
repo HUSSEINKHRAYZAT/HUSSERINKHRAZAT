@@ -153,59 +153,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### 💬 Real-Time Chat Application
-<a href="https://github.com/HUSSEINKHRAYZAT/chat-app-sockets">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HUSSEINKHRAYZAT&repo=chat-app-sockets&theme=tokyonight" />
-</a>
-
-**Full-stack real-time messaging platform**
-
-🔹 **Tech Stack:** Socket.io, React, Node.js, Express  
-🔹 **Features:**
-- Real-time bidirectional communication with WebSockets
-- Modern, responsive UI with React
-- Efficient event-driven architecture
-- Scalable client-server design
-
-**What I Built:**
-- WebSocket server with Socket.io for instant messaging
-- React frontend with real-time updates
-- Message broadcasting and room management
-- Clean separation of concerns
-
-🔗 [View Repository →](https://github.com/HUSSEINKHRAYZAT/chat-app-sockets)
-</td>
-<td width="50%" valign="top">
-
-### ✅ Todo List API with Authentication
-<a href="https://github.com/HUSSEINKHRAYZAT/todo-list-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HUSSEINKHRAYZAT&repo=todo-list-api&theme=tokyonight" />
-</a>
-
-**Production-ready RESTful API**
-
-🔹 **Tech Stack:** Node.js, Express, SQLite, JWT  
-🔹 **Features:**
-- Complete JWT-based authentication system
-- RESTful API design with CRUD operations
-- SQLite database with proper schema design
-- Comprehensive API documentation
-- Full-stack integration with React frontend
-
-**What I Built:**
-- Secure authentication with password hashing
-- Protected routes with JWT middleware
-- Task management with user isolation
-- Detailed Postman collection & API docs
-
-🔗 [View Repository →](https://github.com/HUSSEINKHRAYZAT/todo-list-api)
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
 ### 🏓 ft_transcendence
 **Full-stack multiplayer gaming platform**
 
@@ -289,17 +236,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - 🎯 Performance optimization and profiling
 - 🎯 Advanced TypeScript patterns
 - 🎯 Testing strategies (Unit, Integration, E2E)
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Upcoming Projects
-- 📦 **E-commerce API** - Complete REST API with payments
-- 🔐 **OAuth2 Server** - Authentication provider
-- 📊 **Analytics Dashboard** - Real-time data visualization
-- 🌐 **Microservices Demo** - Service mesh architecture
-- 📱 **Mobile-First PWA** - Progressive web application
-- 🧪 **Test-Driven Project** - Full TDD approach
-- 📈 **Observability Project** - Logging, metrics, tracing
 </td>
 </tr>
 </table>
