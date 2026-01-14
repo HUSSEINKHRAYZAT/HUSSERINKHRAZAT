@@ -201,12 +201,6 @@ const hussein = {
 
 <div align="center">
 
-<a href="https://github.com/HUSSEINKHRAYZAT">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HUSSEINKHRAYZAT&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff0055&icon_color=ff0055&text_color=c9d1d9" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/HUSSEINKHRAYZAT">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUSSEINKHRAYZAT&layout=compact&theme=radical&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ff0055&text_color=c9d1d9" alt="Top Languages"/>
-</a>
 
 <br/><br/>
 
@@ -215,10 +209,6 @@ const hussein = {
 </a>
 
 <br/><br/>
-
-<a href="https://github.com/HUSSEINKHRAYZAT">
-  <img src="https://github-profile-trophy.vercel.app/?username=HUSSEINKHRAYZAT&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</a>
 
 </div>
 
