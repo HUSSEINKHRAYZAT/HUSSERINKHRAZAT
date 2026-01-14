@@ -51,6 +51,7 @@ I specialize in creating real-time systems, RESTful APIs, and modern full-stack 
 - 📚 Write **clean, tested, documented** code that teams can understand and extend
 
 #### 🌟 Core Strengths
+
 ```javascript
 const hussein = {
   code: ["JavaScript", "TypeScript", "C", "C++", "Java", "Python"],
@@ -72,6 +73,7 @@ const hussein = {
 <br/><br/>
 
 ### 🔥 Current Focus
+
 ```bash
 🎯 Real-time systems
 🎯 Scalable APIs
@@ -266,8 +268,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HUSSEINKHRAYZAT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUSSEINKHRAYZAT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HUSSEINKHRAYZAT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUSSEINKHRAYZAT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 </p>
 
 <p align="center">
