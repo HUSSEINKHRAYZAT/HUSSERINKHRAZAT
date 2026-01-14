@@ -61,7 +61,7 @@ Write self-documenting, tested code that teams can understand and extend
 
 ### 💼 Tech Stack
 
-```javascript
+javascript
 const hussein = {
   languages: ["JavaScript", "TypeScript", "C", "C++", "Java", "Python"],
   backend: ["Node.js", "Express", "Socket.io", "JWT"],
@@ -71,7 +71,7 @@ const hussein = {
   focus: "Building scalable real-time applications",
   available: "Open to opportunities!"
 };
-```
+
 
 </td>
 <td width="40%" valign="top" align="center">
