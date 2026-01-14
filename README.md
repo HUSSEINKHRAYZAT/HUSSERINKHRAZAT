@@ -1,11 +1,13 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Hussein%20Khrayzat&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Building%20Scalable%20Web%20Solutions&descAlign=50&descAlignY=58&animation=fadeIn&section=header&color=gradient&customColorList=6,11,20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Hussein%20Khrayzat&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Building%20The%20Future%2C%20One%20Line%20at%20a%20Time&descAlign=50&descAlignY=60&animation=fadeIn&section=header&color=gradient&customColorList=6,11,20" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;Passionate+about+Clean+Code+%26+System+Design;Real-Time+Applications+%7C+REST+APIs+%7C+WebSockets;Building+scalable%2C+maintainable%2C+production-ready+software;Always+learning.+Always+shipping.+Always+improving." />
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=false&width=900&height=100&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;Passionate+about+Clean+Code+%26+System+Design+%F0%9F%92%BB;Real-Time+Applications+%7C+REST+APIs+%7C+WebSockets+%E2%9A%A1;Building+scalable%2C+maintainable%2C+production-ready+software+%F0%9F%8E%AF;Turning+Coffee+into+Code...+Always+Learning%2C+Always+Shipping+%E2%98%95)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
   <a href="mailto:husseinkhrayzat@hotmail.com">
@@ -19,92 +21,142 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HUSSEINKHRAYZAT&style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/HUSSEINKHRAYZAT?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/HUSSEINKHRAYZAT?style=for-the-badge&logo=github" />
-</p>
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=HUSSEINKHRAYZAT&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/HUSSEINKHRAYZAT?style=for-the-badge&logo=github&label=Followers)](https://github.com/HUSSEINKHRAYZAT?tab=followers)
+[![Stars](https://img.shields.io/github/stars/HUSSEINKHRAYZAT?style=for-the-badge&logo=github&label=Stars)](https://github.com/HUSSEINKHRAYZAT?tab=repositories)
+
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=gradient" width="94%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=gradient" width="95%" />
 </p>
 
 ---
 
 <!-- ===================== ABOUT SECTION ===================== -->
+<div align="center">
+
 ## 👨‍💻 About Me
 
+</div>
+
 <table>
-  <tr>
-    <td width="65%" valign="top">
+<tr>
+<td width="60%" valign="top">
 
-### 👋 Welcome!
-I'm **Hussein Khrayzat**, a **Full-Stack Software Engineer** with a passion for building **reliable, scalable, and elegant** web applications.
+### 👋 Welcome to My Digital Workshop!
 
-I specialize in creating real-time systems, RESTful APIs, and modern full-stack applications that solve real problems.
+I'm **Hussein Khrayzat**, a **Full-Stack Software Engineer** who thrives on transforming complex problems into **elegant, scalable solutions**. 
 
-#### 🎯 What I Do
-- 🔧 Build **production-ready REST APIs** with authentication, authorization, and best practices
-- 🚀 Develop **real-time applications** using WebSockets and event-driven architectures
-- 💻 Create **full-stack web apps** with modern frameworks and clean architecture
-- 🏗️ Design **scalable systems** with performance and maintainability in mind
-- 📚 Write **clean, tested, documented** code that teams can understand and extend
+💡 **My Philosophy:** Great software isn't just about making things work—it's about making them work **beautifully**, **efficiently**, and **maintainably**.
 
-#### 🌟 Core Strengths
+<br/>
+
+### 🎯 What I Do Best
+
+🔹 **Backend Mastery**  
+Build production-grade REST APIs with robust authentication, clean architecture, and bulletproof security
+
+🔹 **Real-Time Systems**  
+Create seamless real-time experiences using WebSockets, Socket.io, and event-driven architectures
+
+🔹 **Full-Stack Development**  
+Craft end-to-end solutions from database design to beautiful, responsive frontends
+
+🔹 **System Design**  
+Design scalable, maintainable systems that grow with your business needs
+
+🔹 **Clean Code Advocate**  
+Write self-documenting, tested code that makes teams more productive
+
+<br/>
+
+### 💼 Core Tech Stack
 
 ```javascript
 const hussein = {
-  code: ["JavaScript", "TypeScript", "C", "C++", "Java", "Python"],
-  backend: ["Node.js", "Express", "Socket.io", "REST APIs", "JWT Auth"],
-  frontend: ["React", "Vite", "HTML5", "CSS3", "Responsive Design"],
-  databases: ["SQLite", "PostgreSQL", "MySQL", "MongoDB"],
-  tools: ["Git", "Docker", "Linux", "npm", "Postman"],
-  architecture: ["MVC", "Clean Code", "System Design", "Microservices"],
-  currentFocus: "Building scalable real-time applications",
-  openTo: ["Collaboration", "Freelance", "Full-time opportunities"]
+  languages: {
+    expert: ["JavaScript", "TypeScript", "C", "C++"],
+    proficient: ["Java", "Python"]
+  },
+  backend: {
+    runtime: ["Node.js"],
+    frameworks: ["Express.js"],
+    realtime: ["Socket.io", "WebSockets"],
+    auth: ["JWT", "bcrypt", "Session Management"]
+  },
+  frontend: {
+    frameworks: ["React"],
+    build: ["Vite"],
+    core: ["HTML5", "CSS3", "Responsive Design"]
+  },
+  databases: {
+    sql: ["PostgreSQL", "MySQL", "SQLite"],
+    nosql: ["MongoDB"]
+  },
+  devops: ["Docker", "Git", "Linux"],
+  architecture: ["REST APIs", "MVC", "Clean Architecture", "Microservices"],
+  
+  currentMission: "Building scalable real-time applications that make a difference",
+  availability: "Open to exciting opportunities! 🚀"
 };
 ```
 </td>
-<td width="35%" valign="top" align="center">
+<td width="40%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&center=true&vCenter=true&width=340&lines=Code+quality+matters.;Architecture+matters.;User+experience+matters.;Performance+matters.;Documentation+matters." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=800&center=true&vCenter=true&width=380&lines=%F0%9F%92%A1+Code+quality+matters;%F0%9F%8F%97%EF%B8%8F+Architecture+matters;%F0%9F%8E%A8+User+experience+matters;%E2%9A%A1+Performance+matters;%F0%9F%93%9A+Documentation+matters;%F0%9F%A7%AA+Testing+matters" />
 
-<br/><br/>
+<br/>
 
-### 🔥 Current Focus
+### 🎯 Current Focus
 
-```bash
-🎯 Real-time systems
-🎯 Scalable APIs
-🎯 Clean architecture
-🎯 System design
-🎯 DevOps practices
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HUSSEINKHRAYZAT&layout=compact&theme=tokyonight" alt="Coding Activity" />
+
+```diff
++ Real-time WebSocket Applications
++ Production-Ready REST APIs
++ System Design & Architecture
++ Clean Code & Best Practices
++ DevOps & Containerization
++ Performance Optimization
 ```
 
 <br/>
 
-### 🤝 Let's Connect!
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate.
+### 🤝 Let's Build Together!
 
-**Available for:**
-- 💼 Full-time positions
-- 🚀 Freelance projects
-- 🤝 Open-source collaboration
-- 💡 Technical discussions
+I'm always excited to collaborate on innovative projects and solve challenging problems.
+
+**🌟 Open For:**
+
+✅ Full-time Engineering Roles  
+✅ Freelance Development Projects  
+✅ Open Source Collaboration  
+✅ Technical Consulting  
+✅ Code Reviews & Mentorship
 </td>
   </tr>
 </table>
 
 ---
 
+---
+
 <!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Stack & Skills
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,nodejs,express,react,vite,html,css,sqlite,postgres,mysql,mongodb,docker,git,linux,postman&perline=10" />
-</p>
+## 🛠️ Tech Stack & Tools
 
-### 📦 Detailed Breakdown
+![Skills](https://skillicons.dev/icons?i=js,ts,c,cpp,java,python,nodejs,express,react,vite&perline=10)
+![Tools](https://skillicons.dev/icons?i=html,css,postgres,mysql,mongodb,sqlite,docker,git,linux,postman&perline=10)
+
+</div>
+
+<br/>
+
+### 📦 Technology Expertise
 
 <table>
   <tr>
@@ -153,6 +205,59 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <table>
   <tr>
     <td width="50%" valign="top">
+
+### 💬 Real-Time Chat Application
+<a href="https://github.com/HUSSEINKHRAYZAT/chat-app-sockets">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HUSSEINKHRAYZAT&repo=chat-app-sockets&theme=tokyonight" />
+</a>
+
+**Full-stack real-time messaging platform**
+
+🔹 **Tech Stack:** Socket.io, React, Node.js, Express  
+🔹 **Features:**
+- Real-time bidirectional communication with WebSockets
+- Modern, responsive UI with React
+- Efficient event-driven architecture
+- Scalable client-server design
+
+**What I Built:**
+- WebSocket server with Socket.io for instant messaging
+- React frontend with real-time updates
+- Message broadcasting and room management
+- Clean separation of concerns
+
+🔗 [View Repository →](https://github.com/HUSSEINKHRAYZAT/chat-app-sockets)
+</td>
+<td width="50%" valign="top">
+
+### ✅ Todo List API with Authentication
+<a href="https://github.com/HUSSEINKHRAYZAT/todo-list-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HUSSEINKHRAYZAT&repo=todo-list-api&theme=tokyonight" />
+</a>
+
+**Production-ready RESTful API**
+
+🔹 **Tech Stack:** Node.js, Express, SQLite, JWT  
+🔹 **Features:**
+- Complete JWT-based authentication system
+- RESTful API design with CRUD operations
+- SQLite database with proper schema design
+- Comprehensive API documentation
+- Full-stack integration with React frontend
+
+**What I Built:**
+- Secure authentication with password hashing
+- Protected routes with JWT middleware
+- Task management with user isolation
+- Detailed Postman collection & API docs
+
+🔗 [View Repository →](https://github.com/HUSSEINKHRAYZAT/todo-list-api)
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 🏓 ft_transcendence
 **Full-stack multiplayer gaming platform**
 
@@ -203,20 +308,40 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ---
 
 <!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Statistics
+<div align="center">
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HUSSEINKHRAYZAT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUSSEINKHRAYZAT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HUSSEINKHRAYZAT&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9" />
-</p>
+*"Quality over quantity, but why not both?"* 😉
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HUSSEINKHRAYZAT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9" />
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HUSSEINKHRAYZAT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&rank_icon=github&custom_title=Hussein's%20GitHub%20Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUSSEINKHRAYZAT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&custom_title=Most%20Used%20Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HUSSEINKHRAYZAT&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HUSSEINKHRAYZAT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=HUSSEINKHRAYZAT&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -237,20 +362,84 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - 🎯 Advanced TypeScript patterns
 - 🎯 Testing strategies (Unit, Integration, E2E)
 </td>
+<td width="50%" valign="top">
+
+### 🎯 Upcoming Projects
+- 📦 **E-commerce API** - Complete REST API with payments
+- 🔐 **OAuth2 Server** - Authentication provider
+- 📊 **Analytics Dashboard** - Real-time data visualization
+- 🌐 **Microservices Demo** - Service mesh architecture
+- 📱 **Mobile-First PWA** - Progressive web application
+- 🧪 **Test-Driven Project** - Full TDD approach
+- 📈 **Observability Project** - Logging, metrics, tracing
+</td>
 </tr>
 </table>
 
 ---
 
+---
+
+<!-- ===================== CONNECT WITH ME ===================== -->
+<div align="center">
+
+## 🤝 Let's Connect & Collaborate
+
+*"Great things are never built alone."*
+
+<br/>
+
+[![Email](https://img.shields.io/badge/📧%20Email-husseinkhrayzat@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husseinkhrayzat@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Hussein%20Khrayzat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-khrayzat-0a183b20a/)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-HUSSEINKHRAYZAT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HUSSEINKHRAYZAT)
+
+<br/>
+
+### 💡 Open For
+
+| Type | Status | Details |
+|------|--------|---------|
+| 💼 **Full-Time Roles** | ✅ Available | Software Engineer, Full-Stack Developer, Backend Engineer |
+| 🚀 **Freelance Projects** | ✅ Available | Web Apps, APIs, Real-Time Systems, Consulting |
+| 🤝 **Open Source** | ✅ Active | Always interested in contributing to meaningful projects |
+| 📚 **Mentorship** | ✅ Available | Code reviews, pair programming, technical guidance |
+| 💬 **Tech Discussions** | ✅ Always | Coffee chats about architecture, best practices, new tech |
+
+<br/>
+
+### 🎯 Quick Facts
+
+```typescript
+const funFacts = {
+  🌍 location: "Available for remote work worldwide",
+  ⏰ timezone: "Flexible across timezones",
+  💻 workStyle: "Clean code, clear communication, collaborative mindset",
+  ☕ fuelSource: "Coffee + good music + interesting problems",
+  🎨 hobbies: ["Coding", "Problem Solving", "Learning New Tech", "Building Side Projects"],
+  💪 superpower: "Turning complex requirements into simple, elegant solutions",
+  🎓 philosophy: "Write code that your future self will thank you for"
+};
+```
+
+</div>
+
+<br/>
+
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Let's%20Build%20Something%20Amazing%20Together&fontSize=28&fontAlign=50&fontAlignY=55&animation=fadeIn&color=gradient&customColorList=6,11,20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontAlign=50&fontAlignY=65&animation=twinkling&color=gradient&customColorList=6,11,20" />
 </p>
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/HUSSEINKHRAYZAT">HUSSEINKHRAYZAT</a> - Thanks for visiting! Feel free to reach out for collaboration, opportunities, or just a chat about tech.</i>
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=700&lines=%E2%AD%90+If+you+like+my+work%2C+give+a+star!;%F0%9F%92%BC+Open+to+exciting+opportunities;%F0%9F%A4%9D+Let's+build+something+amazing+together!;%F0%9F%92%AC+Always+happy+to+connect+and+collaborate;%E2%98%95+Coffee+chat%3F+Let's+talk+tech!)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&center=true&vCenter=true&width=600&lines=💼+Open+to+new+opportunities;🤝+Always+happy+to+collaborate;💬+Let's+connect+and+build+something+great!" />
-</p>
+<br/>
+
+**⭐️ From [HUSSEINKHRAYZAT](https://github.com/HUSSEINKHRAYZAT) with 💙**
+
+*Last Updated: January 2026*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=gradient" width="100%" />
+
+</div>
