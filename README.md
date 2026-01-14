@@ -152,35 +152,6 @@ const hussein = {
 <tr>
 <td width="50%" valign="top">
 
-### 💬 Real-Time Chat Application
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HUSSEINKHRAYZAT&repo=chat-app-sockets&theme=tokyonight&hide_border=true)](https://github.com/HUSSEINKHRAYZAT/chat-app-sockets)
-
-**Full-stack real-time messaging platform**
-
-**Tech Stack:** Socket.io • React • Node.js • Express
-
-[**→ View Repository**](https://github.com/HUSSEINKHRAYZAT/chat-app-sockets)
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ Todo List API + Authentication
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HUSSEINKHRAYZAT&repo=todo-list-api&theme=tokyonight&hide_border=true)](https://github.com/HUSSEINKHRAYZAT/todo-list-api)
-
-**Production-ready RESTful API**
-
-**Tech Stack:** Node.js • Express • SQLite • JWT
-
-[**→ View Repository**](https://github.com/HUSSEINKHRAYZAT/todo-list-api)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
 ### 🏓 ft_transcendence
 
 **Full-stack multiplayer gaming platform**
@@ -200,7 +171,11 @@ const hussein = {
 
 [**→ View Repository**](https://github.com/HUSSEINKHRAYZAT/minishell)
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🧱 Cub3D
 
@@ -209,6 +184,11 @@ const hussein = {
 **Tech Stack:** C • Graphics • Mathematics
 
 [**→ View Repository**](https://github.com/HUSSEINKHRAYZAT/Cub3d)
+
+</td>
+<td width="50%" valign="top">
+
+<!-- Add more projects here -->
 
 </td>
 </tr>
