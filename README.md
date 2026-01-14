@@ -64,9 +64,8 @@ const hussein = {
   openTo: ["Collaboration", "Freelance", "Full-time opportunities"]
 };
 ```
-
-    </td>
-    <td width="35%" valign="top" align="center">
+</td>
+<td width="35%" valign="top" align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&center=true&vCenter=true&width=340&lines=Code+quality+matters.;Architecture+matters.;User+experience+matters.;Performance+matters.;Documentation+matters." />
 
@@ -92,8 +91,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - 🚀 Freelance projects
 - 🤝 Open-source collaboration
 - 💡 Technical discussions
-
-    </td>
+</td>
   </tr>
 </table>
 
@@ -119,9 +117,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-    </td>
-    <td width="33%" valign="top">
+</td>
+<td width="33%" valign="top">
 
 #### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -130,9 +127,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-    </td>
-    <td width="33%" valign="top">
+</td>
+<td width="33%" valign="top">
 
 #### 🗄️ Databases & Tools
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -141,9 +137,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -180,9 +175,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - Clean separation of concerns
 
 🔗 [View Repository →](https://github.com/HUSSEINKHRAYZAT/chat-app-sockets)
-
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### ✅ Todo List API with Authentication
 <a href="https://github.com/HUSSEINKHRAYZAT/todo-list-api">
@@ -206,12 +200,11 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - Detailed Postman collection & API docs
 
 🔗 [View Repository →](https://github.com/HUSSEINKHRAYZAT/todo-list-api)
+</td>
+</tr>
 
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 🏓 ft_transcendence
 **Full-stack multiplayer gaming platform**
@@ -231,9 +224,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - Integrated chat and social features
 
 🔗 [View Repository →](https://github.com/HUSSEINKHRAYZAT/ft_transcendence)
-
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 🐚 MiniShell & 🧱 Cub3D
 **System programming & 3D graphics**
@@ -257,9 +249,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - Algorithm implementation
 - Memory management
 - Graphics mathematics
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
@@ -298,9 +289,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - 🎯 Performance optimization and profiling
 - 🎯 Advanced TypeScript patterns
 - 🎯 Testing strategies (Unit, Integration, E2E)
-
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 🎯 Upcoming Projects
 - 📦 **E-commerce API** - Complete REST API with payments
@@ -310,9 +300,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - 📱 **Mobile-First PWA** - Progressive web application
 - 🧪 **Test-Driven Project** - Full TDD approach
 - 📈 **Observability Project** - Logging, metrics, tracing
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
