@@ -201,16 +201,24 @@ const hussein = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HUSSEINKHRAYZAT&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HUSSEINKHRAYZAT&layout=compact&theme=radical&langs_count=8)
+<a href="https://github.com/HUSSEINKHRAYZAT">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HUSSEINKHRAYZAT&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff0055&icon_color=ff0055&text_color=c9d1d9" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/HUSSEINKHRAYZAT">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUSSEINKHRAYZAT&layout=compact&theme=radical&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ff0055&text_color=c9d1d9" alt="Top Languages"/>
+</a>
 
-<br/>
+<br/><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HUSSEINKHRAYZAT&theme=radical)
+<a href="https://github.com/HUSSEINKHRAYZAT">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HUSSEINKHRAYZAT&theme=radical&hide_border=true&background=0d1117&stroke=ff0055&ring=ff0055&fire=ff0055&currStreakLabel=ff0055" alt="GitHub Streak"/>
+</a>
 
-<br/>
+<br/><br/>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HUSSEINKHRAYZAT&theme=radical&no-frame=true&row=1&column=6)
+<a href="https://github.com/HUSSEINKHRAYZAT">
+  <img src="https://github-profile-trophy.vercel.app/?username=HUSSEINKHRAYZAT&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
