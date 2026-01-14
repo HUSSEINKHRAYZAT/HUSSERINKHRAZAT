@@ -174,7 +174,15 @@ Write self-documenting, tested code that teams can understand and extend
 </td>
 <td width="50%" valign="top">
 
-<!-- Add more projects here -->
+### 📸 Camagru
+
+**Social media photo sharing application**
+
+Modern, Instagram-inspired platform built with PHP featuring real-time camera capture, interactive stickers, filters, and social networking capabilities
+
+**Tech Stack:** PHP • MySQL • Docker
+
+[**→ View Repository**](https://github.com/HUSSEINKHRAYZAT/Camagrou)
 
 </td>
 </tr>
