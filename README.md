@@ -59,16 +59,6 @@ Write self-documenting, tested code that teams can understand and extend
 
 <br/>
 
-### 💼 Tech Stack
-
-- **Languages:** JavaScript, TypeScript, C, C++, Java, Python
-- **Backend:** Node.js, Express, Socket.io, JWT
-- **Frontend:** React, Vite, HTML5, CSS3
-- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
-- **Tools:** Docker, Git, Linux
-- **Focus:** Building scalable real-time applications
-- **Availability:** Open to opportunities
-
 </td>
 <td width="40%" valign="top" align="center">
 
@@ -191,35 +181,6 @@ Write self-documenting, tested code that teams can understand and extend
 </table>
 
 ---
-
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/HUSSEINKHRAYZAT">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HUSSEINKHRAYZAT&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff0055&icon_color=ff0055&text_color=c9d1d9" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/HUSSEINKHRAYZAT">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUSSEINKHRAYZAT&layout=compact&theme=radical&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ff0055&text_color=c9d1d9" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/HUSSEINKHRAYZAT">
-  <img src="https://streak-stats.demolab.com/?user=HUSSEINKHRAYZAT&theme=radical&hide_border=true&background=0d1117&stroke=ff0055&ring=ff0055&fire=ff0055&currStreakLabel=ff0055" alt="GitHub Streak"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/HUSSEINKHRAYZAT">
-  <img src="https://github-profile-trophy.vercel.app/?username=HUSSEINKHRAYZAT&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</a>
-
-</div>
-
----
-
 <!-- ===================== LEARNING PATH ===================== -->
 ## 🌱 Continuous Learning
 
