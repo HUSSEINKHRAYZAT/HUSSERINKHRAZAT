@@ -201,20 +201,22 @@ const hussein = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HUSSEINKHRAYZAT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUSSEINKHRAYZAT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<a href="https://github.com/HUSSEINKHRAYZAT">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HUSSEINKHRAYZAT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUSSEINKHRAYZAT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HUSSEINKHRAYZAT&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+<a href="https://github.com/HUSSEINKHRAYZAT">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HUSSEINKHRAYZAT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HUSSEINKHRAYZAT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true" alt="Activity Graph" />
-
-<br/><br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HUSSEINKHRAYZAT&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/HUSSEINKHRAYZAT">
+  <img src="https://github-profile-trophy.vercel.app/?username=HUSSEINKHRAYZAT&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</a>
 
 </div>
 
