@@ -160,18 +160,6 @@ const hussein = {
 
 **Tech Stack:** Socket.io • React • Node.js • Express
 
-**Key Features:**
-- ⚡ Real-time bidirectional communication
-- 🎨 Modern, responsive React UI
-- 🔄 Event-driven architecture
-- 📡 Message broadcasting & rooms
-
-**What I Built:**
-- WebSocket server for instant messaging
-- Real-time state synchronization
-- Efficient client-server communication
-- Clean code architecture
-
 [**→ View Repository**](https://github.com/HUSSEINKHRAYZAT/chat-app-sockets)
 
 </td>
@@ -184,19 +172,6 @@ const hussein = {
 **Production-ready RESTful API**
 
 **Tech Stack:** Node.js • Express • SQLite • JWT
-
-**Key Features:**
-- 🔐 Complete JWT authentication
-- 🛡️ Secure password hashing
-- 📋 Full CRUD operations
-- 📖 Comprehensive API docs
-- 🎨 React frontend integration
-
-**What I Built:**
-- Secure auth system with middleware
-- RESTful API best practices
-- Database schema design
-- Full-stack integration
 
 [**→ View Repository**](https://github.com/HUSSEINKHRAYZAT/todo-list-api)
 
@@ -212,19 +187,6 @@ const hussein = {
 
 **Tech Stack:** TypeScript • NestJS • PostgreSQL • Docker • WebSockets
 
-**Key Features:**
-- 🎮 Real-time multiplayer Pong game
-- 👤 User authentication & profiles
-- 💬 Live chat system
-- 🎲 Matchmaking algorithm
-- 🐳 Full Docker containerization
-
-**What I Built:**
-- Real-time game engine
-- WebSocket synchronization
-- User management system
-- Chat & social features
-
 [**→ View Repository**](https://github.com/HUSSEINKHRAYZAT/ft_transcendence)
 
 </td>
@@ -236,12 +198,6 @@ const hussein = {
 
 **Tech Stack:** C • System Calls • Process Management
 
-**Key Features:**
-- 🔧 Built-in commands (cd, echo, pwd, etc.)
-- 🔀 Pipes & redirections
-- 🌍 Environment variables
-- ⚙️ Signal handling
-
 [**→ View Repository**](https://github.com/HUSSEINKHRAYZAT/minishell)
 
 ---
@@ -251,12 +207,6 @@ const hussein = {
 **3D ray-casting game engine**
 
 **Tech Stack:** C • Graphics • Mathematics
-
-**Key Features:**
-- 🎨 Ray-casting from scratch
-- 🕹️ Wolfenstein 3D inspired
-- 🧮 Graphics mathematics
-- ⚡ Optimized rendering
 
 [**→ View Repository**](https://github.com/HUSSEINKHRAYZAT/Cub3d)
 
